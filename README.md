@@ -49,7 +49,7 @@ Version 0.20 Update to DecoPlus adds colored wood walls & doors, as well as colo
 
 Added:
  - Colored Wood Walls & Doors
- - Colored Wood Crafting Material![Uploading icecoreitem.png…]()
+ - Colored Wood Crafting Material
 
 
 
