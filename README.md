@@ -7,7 +7,7 @@ Please refer to the LICENSE agreement when using DecoPlus in modpacks, on server
 <img width="640" height="640" alt="preview" src="https://github.com/user-attachments/assets/3dd16072-3157-49e3-b471-92c389e60375" />
 
 
-(Current) Version 0.21 (Sep. 21st, 2026
+(Current) Version 0.21 (Sep. 21st, 2026)
 
 <img width="614" height="118" alt="Screenshot 2026-09-21 215522" src="https://github.com/user-attachments/assets/a881251a-c4e1-42f9-b9d2-c81efc04c49c" />
 
