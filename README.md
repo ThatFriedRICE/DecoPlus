@@ -6,6 +6,8 @@ Please refer to the LICENSE agreement when using DecoPlus in modpacks, on server
 
 <img width="640" height="640" alt="preview" src="https://github.com/user-attachments/assets/b51ec3c5-aa40-4b63-b691-32ad5cae79f4" />
 
+In DecoPlus you can turn normal crafting materials such as sandstone and oaklogs into colored crafting materials!
+
 
 
 (Current) Version V0.20 (Sep. 21st, 2026)
