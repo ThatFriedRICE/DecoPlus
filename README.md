@@ -5,9 +5,24 @@ DecoPlus is a mod for the game Necesse that adds more decorations and colored ob
 This Repository is intended to display updates for the mod, as well as allow others to download the .jar directly for use on servers. 
 Please refer to the LICENSE agreement when using DecoPlus in modpacks, on servers, or when creating mods that rely on DecoPlus.
 
-<img width="640" height="640" alt="preview" src="https://github.com/user-attachments/assets/f9474e9b-4b02-43f7-8770-4e86755a006e" />
+<img width="640" height="640" alt="preview" src="https://github.com/user-attachments/assets/68dfb3d1-2cb1-46fb-b95e-9e6c5a3f60b0" />
 
-<img width="32" height="32" alt="icecoreitem" src="https://github.com/user-attachments/assets/186c5018-1f0c-449f-80c7-825de7066d16" /> (Current) Version 0.22 (Sep. 22nd, 2026)
+<img width="32" height="32" alt="frozoniumitem" src="https://github.com/user-attachments/assets/82381548-13d0-47a9-b092-db7c20cac45c" /> (Current) Version 0.23 (Sep. 27th, 2026)
+
+<img width="683" height="297" alt="Screenshot 2026-09-27 193951" src="https://github.com/user-attachments/assets/a049cfe0-03d5-45d4-80a1-4c2456ae8e10" />
+
+Added: 
+ - Decorations Workbench
+ - Deco. Workbench Categories
+ - Deco Tech
+ - Deco Items Registry in its own dedicated file
+
+Fixed:
+- Color Palette Material Item Name
+- Modded Item Recipes
+- Modded Item Recipe Registry Order
+
+<img width="32" height="32" alt="icecoreitem" src="https://github.com/user-attachments/assets/186c5018-1f0c-449f-80c7-825de7066d16" /> Version 0.22 (Sep. 22nd, 2026)
 
 <img width="616" height="205" alt="Screenshot 2026-09-22 121427" src="https://github.com/user-attachments/assets/6add5436-fcb2-4c7b-b87f-f4a89c05f46f" />
 
@@ -27,7 +42,6 @@ Fixed:
 - Changed many crafting recipes
 - Fixed Assets
 - Rearranged the order some recipes register in.
-
 
 <img width="32" height="32" alt="lightcoreitem" src="https://github.com/user-attachments/assets/4bcc0420-12a1-4f07-9bb0-61248cdeb248" /> Version 0.21 (Sep. 21st, 2026) 
 
@@ -51,13 +65,9 @@ Added:
  - Colored Wood Walls & Doors
  - Colored Wood Crafting Material
 
-
-
-
 <img width="32" height="32" alt="naturecoreitem" src="https://github.com/user-attachments/assets/b3ba65ec-55a5-49ab-935c-c66ed2cd75b9" /> Version 0.19 (Sep. 20th, 2026) 
 
 <img width="691" height="291" alt="Screenshot 2026-09-20 153828" src="https://github.com/user-attachments/assets/8f180126-2be9-4ea8-929d-f78b2f7c497f" />
-
 
 Version 0.19 Update to DecoPlus adds many colored walls & doors, as well as colored stone crafting materials. 
 
